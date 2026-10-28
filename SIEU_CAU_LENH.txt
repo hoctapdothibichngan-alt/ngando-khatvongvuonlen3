@@ -1,0 +1,13 @@
+Hãy đóng vai chuyên gia chiến lược thương hiệu, kiến trúc thông tin, UX/UI, nội dung biên tập và lập trình frontend. Hãy tạo website thực tế tên KHÁT VỌNG VƯƠN LÊN, xuất mã hoàn chỉnh, không chỉ trình bày ý tưởng.
+
+MỤC TIÊU: Giúp người đọc chuyển khát vọng thay đổi thành mục tiêu, kỷ luật, học tập, hành động và kết quả. Độc giả là người đi làm, người kinh doanh, người xây dựng đội nhóm và người muốn sống chủ động. Định vị kết hợp phát triển con người, tư duy chiến lược, kinh doanh thực chiến, lãnh đạo, AI và thịnh vượng bền vững. Thông điệp: “Đánh thức khát vọng – Rèn luyện bản lĩnh – Làm chủ cuộc đời – Kiến tạo thịnh vượng.”
+
+THIẾT KẾ: Modern Luxury kết hợp Editorial Magazine; xanh navy, vàng champagne, trắng kem; bố cục thoáng, tiêu đề giàu cảm xúc, chữ tiếng Việt dễ đọc; tương thích điện thoại và máy tính. Màn hình đầu dùng ảnh chân dung tôi cung cấp, giữ nhận diện, tạo không gian sáng sang trọng và đầy khát vọng. CTA đưa tới công cụ lập kế hoạch.
+
+CẤU TRÚC: Trang chủ có lời ngỏ sâu sắc, thực tế; tám trụ cột gồm khát vọng và mục tiêu, tư duy chiến lược, kỷ luật và hành động, học tập và năng lực, giao tiếp và lãnh đạo, kinh doanh thực chiến, công nghệ và AI, thịnh vượng bền vững. Tạo bản đồ từ nhìn lại, chọn đích, lập kế hoạch, hành động đến đo lường và điều chỉnh. Có bài học thực hành, thư viện kiến thức, không gian câu chuyện chuyển hóa và góc độc giả. Nội dung thực chất, không bịa thành tích, khách hàng, lời chứng thực hay thông tin liên hệ.
+
+TƯƠNG TÁC: Xây công cụ SMART và kế hoạch 90 ngày với lưu trên trình duyệt, xuất/nhập bản sao lưu, in PDF; góc ghi chép cá nhân có thêm và xóa. Nêu rõ dữ liệu chỉ nằm trên thiết bị; không đồng bộ, không gửi chủ website, có thể mất khi xóa dữ liệu trình duyệt. Không gọi ghi chép cá nhân là lưu bút công khai. Không có nút giả. Nếu cần form công khai, đăng nhập, đồng bộ, thông báo hoặc cơ sở dữ liệu, trình bày đó là tính năng cần tích hợp backend sau, không giả vờ đã hoạt động.
+
+KỸ THUẬT VÀ BÀN GIAO: HTML, CSS và JavaScript hoàn chỉnh, chạy được khi mở file, các đường dẫn tương đối dùng được trên GitHub Pages. Đảm bảo nhãn trường, điều hướng bàn phím, hỗ trợ màn hình nhỏ, kiểm tra các nút và các trường dữ liệu. Dùng ảnh tôi cung cấp, không thay đổi khuôn mặt. Xuất file index.html, ảnh, README hướng dẫn sử dụng, thay nội dung và triển khai GitHub Pages, đóng gói ZIP. Phân tích ngắn định vị, độc giả, đề xuất lộ trình 3, 6 và 12 tháng. Báo cáo chính xác tính năng đã kiểm thử và các giới hạn. BẮT ĐẦU LẬP TRÌNH VÀ XUẤT FILE.
+
+LIÊN HỆ: Đưa số 0902.65.2225 và email dothibichngan1403@gmail.com lên trang, với các liên kết điện thoại, Zalo, WhatsApp và email tương ứng.
